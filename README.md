@@ -1,2 +1,2 @@
 # data_mining_assign
-Data Mining Assignment Code Implementations
+Code Implementations of commonly used Machine Learning Models
